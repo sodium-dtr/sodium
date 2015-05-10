@@ -3,6 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>space.sodium</groupId>
+	<artifactId>sodium</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0</version>
 	<name>sodium</name>
@@ -42,5 +43,4 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-	<artifactId>sodium</artifactId>
 </project>
